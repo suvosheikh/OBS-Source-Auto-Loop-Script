@@ -1,0 +1,18 @@
+[
+  { "name": "AnnouncementImage", "duration": 25000},
+  { "name": "SpecificRepeatImage0", "duration": 10000},
+  { "name": "EplBranchVideo", "duration": 141000},
+  { "name": "SpecificRepeatImage7", "duration": 10000},
+  { "name": "OfferBanner", "duration": 70000},
+  { "name": "SpecificRepeatImage2", "duration": 10000},
+  { "name": "WIStarlinkVdo", "duration": 78000},
+  { "name": "SpecificRepeatImage3", "duration": 10000},
+  { "name": "ProductImages", "duration": 30000},
+  { "name": "SpecificRepeatImage4", "duration": 10000},
+  { "name": "ReviewVideo", "duration": 120000},
+  { "name": "SpecificRepeatImage5", "duration": 10000},
+  { "name": "MotionReel", "duration": 35000 },
+  { "name": "SpecificRepeatImage6", "duration": 10000},
+  { "name": "StarlinkObstractionsVdo", "duration": 127000},
+  { "name": "Starlink_Setup", "duration": 123000}
+]
