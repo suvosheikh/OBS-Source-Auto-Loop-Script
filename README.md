@@ -63,13 +63,13 @@ Example configuration:
 
 ## 📸 Screenshot / Preview
 1. **Script & Source in the same folder**  
-![Script & Source in the same folder](Screenshot/screenshot1.png)
+![Script & Source in the same folder](Screenshots/screenshot1.png)
 
 2. **Add Script on OBS**  
-![Add Script on OBS](Screenshot/screenshot2.png)
+![Add Script on OBS](Screenshots/screenshot2.png)
 
 3. **Script successfully worked**  
-![Script successfully worked](Screenshot/screenshot3.png)
+![Script successfully worked](Screenshots/screenshot3.png)
 
 ---
 
