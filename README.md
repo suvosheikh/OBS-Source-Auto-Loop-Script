@@ -62,8 +62,14 @@ Example configuration:
 ---
 
 ## 📸 Screenshot / Preview
+1. **Script & Source in the same folder**  
+![Script & Source in the same folder](Screenshot/Script & Source as same folder screenshot.png)
 
-*(Add screenshots of your OBS scene showing the script in action here)*
+2. **Add Script on OBS**  
+![Add Script on OBS](Screenshot/Add Script on OBS Screenshot.png)
+
+3. **Script successfully worked**  
+![Script successfully worked](Screenshot/Scrip successfully worked screenshot.png)
 
 ---
 
