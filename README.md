@@ -1,9 +1,3 @@
-ঠিক আছে শুভো ভাই 😎
-আমি তোমার OBS Auto Loop Script এর জন্য **full GitHub-ready README.md** বানিয়ে দিলাম। তুমি সরাসরি copy-paste করে GitHub repo তে ব্যবহার করতে পারো।
-
----
-
-````markdown
 # OBS Source Auto Loop Script
 
 A Lua script for **OBS Studio** that automatically loops through scene sources using a JSON configuration. Perfect for streamers to rotate images, videos, banners, and announcements without manual switching.
@@ -36,7 +30,7 @@ A Lua script for **OBS Studio** that automatically loops through scene sources u
 1. **Download or Clone** this repository:
 
 ```bash
-git clone https://github.com/USERNAME/OBS-Source-Auto-Loop-Script.git
+git clone https://github.com/suvosheikh/OBS-Source-Auto-Loop-Script.git
 ````
 
 2. Open **OBS Studio**, go to **Tools → Scripts**.
